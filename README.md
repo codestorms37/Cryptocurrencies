@@ -11,3 +11,8 @@
   - pandas
   - sklearn
   - hvplot
+
+## Results
+
+- Elbow Curve sugests that 4 clusters
+- ![elbow_curve](./resources/images/elbow_curve.png)
