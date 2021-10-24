@@ -14,5 +14,14 @@
 
 ## Results
 
-- Elbow Curve sugests that 4 clusters
-- ![elbow_curve](./resources/images/elbow_curve.png)
+### Elbow Curve sugests that 4 clusters
+
+![elbow_curve](./resources/images/elbow_curve.png)
+
+### Clusters 3D 
+
+![Clusters 3D](./resources/images/clusters_3D.png)
+
+### Clusters 2D 
+
+![Clusters 2D](./resources/images/clusters_2D.png)
